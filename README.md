@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![NN_MODEL_2](https://user-images.githubusercontent.com/94296805/228287390-749f9a75-5a35-468b-961c-b4d4d52e3124.png)
+
 
 ## DESIGN STEPS
 
@@ -33,29 +34,37 @@ Train the data and then predict using Tensorflow
 
 ## PROGRAM
 
-Include your code here
+
 
 ## Dataset Information
 
-Include screenshot of the dataset
+![Dataset_2](https://user-images.githubusercontent.com/94296805/228288382-7b629678-364c-4583-b44d-7d777a7895fc.png)
+
 
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![Loss_graph](https://user-images.githubusercontent.com/94296805/228288528-77641320-4226-40a5-a028-80ab284976d8.png)
+
+
+
+![Accuracy_graph](https://user-images.githubusercontent.com/94296805/228288600-1ad45d79-1fc4-4f10-a2cf-30663f008530.png)
+
 
 ### Classification Report
 
-Include Classification Report here
+![Classification_report](https://user-images.githubusercontent.com/94296805/228288684-46c56eab-2190-462b-9c90-fc5feffaa430.png)
+
 
 ### Confusion Matrix
 
-Include confusion matrix here
+
+![Confusion_matrix](https://user-images.githubusercontent.com/94296805/228288752-3e2e67fd-8401-4937-8a7f-b077b3d3ab29.png)
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+
 
 ## RESULT
