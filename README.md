@@ -20,10 +20,16 @@ Include the neural network model diagram.
 
 ### STEP 1:
 
+Load the csv file and then use the preprocessing steps to clean the data
+
 ### STEP 2:
 
+Split the data to training and testing
+
 ### STEP 3:
-Write your own steps
+
+Train the data and then predict using Tensorflow
+
 
 ## PROGRAM
 
