@@ -181,7 +181,7 @@ print(x_single_prediction)
 
 print(le.inverse_transform(x_single_prediction))
              
-                                                                                                                               
+  ````                                                                                                                             
                                                                
 ## Dataset Information
 
@@ -211,7 +211,7 @@ print(le.inverse_transform(x_single_prediction))
 
 ![New_prediction](https://user-images.githubusercontent.com/94296805/228289560-351bcbd8-4211-4a74-9319-4c1e9dda9aca.png)
 
-````
+
 ## RESULT
 
 Thus a Neural Network Classification Model is created and executed successfully
